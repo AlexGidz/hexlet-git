@@ -1,2 +1,1 @@
-history
-some more text
+I love Hexlet
